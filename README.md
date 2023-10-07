@@ -9,6 +9,7 @@
 |[:fire: Bard](https://bard.google.com/)|[Stable Diffusion XL](https://stability.ai/stable-diffusion)|[Claude](https://claude.ai)|
 |[:fire: Poe](https://poe.com/)|[Perplexity](https://www.perplexity.ai/)|[Forefront Ai](https://www.forefront.ai/)|
 |[:fire: QuillBot](https://quillbot.com/)|[NovelAi](https://novelai.net/)|[ChatPDF](https://www.chatpdf.com/)|
+|[Runway](https://app.runwayml.com/)|[codeium](https://codeium.com/)|-|
 
 ## Frameworks and Platforms
 
