@@ -4,7 +4,7 @@
 
 | - | - | - | - |
 -|-|-|-
-|[:fire: ChatGPT](https://chat.openai.com/) [PhotoRoom](https://www.photoroom.com/)|[Midjourney](https://www.midjourney.com/)|
+|[:fire: ChatGPT](https://chat.openai.com/)|[PhotoRoom](https://www.photoroom.com/)|[Midjourney](https://www.midjourney.com/)|
 |[:fire: character.ai](https://beta.character.ai/)|[Civitai](https://civitai.com/)|[Hugging Face](https://huggingface.co/)|
 |[:fire: Bard](https://bard.google.com/)|[Stable Diffusion XL](https://stability.ai/stable-diffusion)|[Claude](https://claude.ai)|
 |[:fire: Poe](https://poe.com/)|[Perplexity](https://www.perplexity.ai/)|[Forefront Ai](https://www.forefront.ai/)|
