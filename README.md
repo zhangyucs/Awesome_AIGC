@@ -2,10 +2,11 @@
 
 ## GenAI Web Products
 
+|Name|Github Stars|Introduction| Notes |
 -|-|-|-
-|[:fire: ChatGPT](https://chat.openai.com/) |[:fire: character.ai](https://beta.character.ai/)|[:fire: Bard](https://bard.google.com/)|[:fire: Poe](https://poe.com/)|[:fire: QuillBot](https://quillbot.com/)|-|
-|[PhotoRoom](https://www.photoroom.com/)|[Civitai](https://civitai.com/)|[Midjourney](https://www.midjourney.com/)|[Hugging Face](https://huggingface.co/)|[Perplexity](https://www.perplexity.ai/)|-|
-|[Stable Diffusion XL](https://stability.ai/stable-diffusion)|[Claude](https://claude.ai)|[Forefront Ai](https://www.forefront.ai/)|[NovelAi](https://novelai.net/)|[ChatPDF](https://www.chatpdf.com/)|-|
+|[:fire: ChatGPT](https://chat.openai.com/) |[:fire: character.ai](https://beta.character.ai/)|[:fire: Bard](https://bard.google.com/)|[:fire: Poe](https://poe.com/)|[:fire: QuillBot](https://quillbot.com/)|
+|[PhotoRoom](https://www.photoroom.com/)|[Civitai](https://civitai.com/)|[Midjourney](https://www.midjourney.com/)|[Hugging Face](https://huggingface.co/)|[Perplexity](https://www.perplexity.ai/)|
+|[Stable Diffusion XL](https://stability.ai/stable-diffusion)|[Claude](https://claude.ai)|[Forefront Ai](https://www.forefront.ai/)|[NovelAi](https://novelai.net/)|[ChatPDF](https://www.chatpdf.com/)|
 
 
 ## Frameworks and Platforms
