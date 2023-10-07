@@ -2,7 +2,7 @@
 
 ## GenAI Web Products
 
-| - | - | - | 
+| Hot | - | - | 
 -|-|-
 |[:fire: ChatGPT](https://chat.openai.com/)|[PhotoRoom](https://www.photoroom.com/)|[Midjourney](https://www.midjourney.com/)|
 |[:fire: character.ai](https://beta.character.ai/)|[Civitai](https://civitai.com/)|[Hugging Face](https://huggingface.co/)|
