@@ -2,7 +2,7 @@
 
 ## GenAI Web Products
 
-|-|-|-|-|
+| - | - | - | - |
 -|-|-|-
 |[:fire: ChatGPT](https://chat.openai.com/) |[:fire: character.ai](https://beta.character.ai/)|[:fire: Bard](https://bard.google.com/)|[:fire: Poe](https://poe.com/)|[:fire: QuillBot](https://quillbot.com/)|
 |[PhotoRoom](https://www.photoroom.com/)|[Civitai](https://civitai.com/)|[Midjourney](https://www.midjourney.com/)|[Hugging Face](https://huggingface.co/)|[Perplexity](https://www.perplexity.ai/)|
