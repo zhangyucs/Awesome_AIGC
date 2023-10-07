@@ -41,6 +41,8 @@
 |[AnimateDiff](https://github.com/guoyww/AnimateDiff)|![GitHub Repo stars](https://badgen.net/github/stars/guoyww/AnimateDiff)|An efficient framework for further animating the generated still images.|一个高效框架，能进一步将生成的静态图像生成动画|
 |[EasyPhoto](https://github.com/aigc-apps/sd-webui-EasyPhoto)|![GitHub Repo stars](https://badgen.net/github/stars/aigc-apps/sd-webui-EasyPhoto)|EasyPhoto is a Webui UI plug-in for generating AI portraits.|EasyPhoto是一款Webui UI插件，用于生成AI肖像画|
 |[gpt-llm-trainer](https://github.com/mshumer/gpt-llm-trainer)|![GitHub Repo stars](https://badgen.net/github/stars/mshumer/gpt-llm-trainer)|Generate the dataset from the input description and fine-tune LLaMA 2 or GPT-3.5.|根据输入描述生成数据集，并微调LLaMA 2或GPT-3.5|
+|[Llama 2 Everywhere](https://github.com/trholding/llama2.c)|![GitHub Repo stars](https://badgen.net/github/stars/trholding/llama2.c)|Standalone, Binary Portable, Bootable Llama 2.|启动 Llama 2 的演示操作系统|
+
 
 
 ## Agents
