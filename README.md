@@ -15,6 +15,7 @@
 
 |Name|Github Stars|Introduction| Notes |
 -|-|-|-
+|[:fire: LLaVA](https://github.com/haotian-liu/LLaVA) |![GitHub Repo stars](https://badgen.net/github/stars/haotian-liu/LLaVA)|Visual instruction tuning towards large language and vision models with GPT-4 level capabilities.|-|
 |[:fire: Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) |![GitHub Repo stars](https://badgen.net/github/stars/Significant-Gravitas/Auto-GPT)|An experimental open-source attempt to make GPT-4 fully autonomous.|-|
 |[:fire: AgentGPT](https://github.com/reworkd/AgentGPT) |![GitHub Repo stars](https://badgen.net/github/stars/reworkd/AgentGPT)|Assemble, configure and deploy autonomous AI Agents in your browser.|-|
 |[:fire: MetaGPT](https://github.com/geekan/MetaGPT) |![GitHub Repo stars](https://badgen.net/github/stars/geekan/MetaGPT)|🌟 The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo. |MetaGPT,多智能体框架，输入一句话的老板需求，输出用户故事 / 竞品分析 / 需求 / 数据结构 / APIs / 文件等|
