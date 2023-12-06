@@ -1,5 +1,21 @@
 # Awesome_AIGC
 
+## Paper
+
+- Zero-shot：https://arxiv.org/abs/2109.01652  
+- Few-shot：https://arxiv.org/abs/2005.14165  
+- CoT：https://arxiv.org/abs/2201.11903  
+- ToT：https://arxiv.org/abs/2305.10601  
+- GoT：https://arxiv.org/abs/2308.09687  
+- SC：https://arxiv.org/abs/2203.11171  
+- Multi Persona：https://arxiv.org/abs/2307.05300  
+- Least to Most：https://arxiv.org/abs/2205.10625  
+- Step Back：https://arxiv.org/abs/2310.06117  
+- ART：https://arxiv.org/abs/2303.09014  
+- ReAct：https://arxiv.org/abs/2210.03629  
+- Reflection：https://arxiv.org/abs/2303.11366  
+- RAG：https://arxiv.org/abs/2005.11401  
+
 ## GenAI Web Products
 
 | Hot | - | - | 
