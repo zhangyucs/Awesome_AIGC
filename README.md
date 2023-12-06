@@ -1,6 +1,6 @@
 # Awesome_AIGC
 
-## Paper (prompt optimization)
+## Paper (prompt优化)
 
 - Zero-shot：https://arxiv.org/abs/2109.01652  
 - Few-shot：https://arxiv.org/abs/2005.14165  
